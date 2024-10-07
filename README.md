@@ -51,17 +51,24 @@ This project is a full-stack e-commerce website built using the MERN stack (Mong
 
      ```bash
      cd frontend
-     npm start
+     npm start dev
      ```
 
-   - Backend (Node.js):
+   - Admin Panel (Node.js):
 
      ```bash
      cd backend
-     npm start
+     npm start dev
+     ```
+     
+    - Backend (Node.js):
+
+     ```bash
+     cd backend
+     npm start server
      ```
 
-5. Open the project at `http://localhost:3000` for the frontend and `http://localhost:5000` for backend API requests.
+5. Open the project at `http://localhost:5173` for the frontend and `http://localhost:5174/` for the admin panel.
 
 ## Deployment
 
