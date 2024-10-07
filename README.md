@@ -1,6 +1,7 @@
 # MERN Stack E-commerce Website
 
 This project is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrates payment gateways like Stripe and Razorpay. This project was developed by following the tutorial from [GreatStackDev](https://www.youtube.com/@GreatStackDev).
+**[ForeverBuy](https://frontend-two-nu-24.vercel.app)**
 
 ## Features
 
